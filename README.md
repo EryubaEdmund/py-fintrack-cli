@@ -197,8 +197,6 @@ amount = float(input("Enter amount to deposit: "))
 | `float()` | Decimal number |
 | `str()` | Text (string) |
 
-> ⚠️ **Note:** This program does not currently handle invalid input (e.g., typing `"abc"` when a number is expected). A production-ready version would wrap this in a `try/except` block.
-
 ---
 
 ### 11. f-Strings (Formatted String Literals)
@@ -292,3 +290,6 @@ bank_account.py
 ---
 
 *Created as a learning exercise in Python OOP fundamentals.*
+
+## 📄 License
+This project is licensed under the MIT License.
